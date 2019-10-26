@@ -1,0 +1,11 @@
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task1/Task1/bin/Debug/netcoreapp3.0/Task1
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task1/Task1/bin/Debug/netcoreapp3.0/Task1.deps.json
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task1/Task1/bin/Debug/netcoreapp3.0/Task1.runtimeconfig.json
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task1/Task1/bin/Debug/netcoreapp3.0/Task1.runtimeconfig.dev.json
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task1/Task1/bin/Debug/netcoreapp3.0/Task1.dll
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task1/Task1/bin/Debug/netcoreapp3.0/Task1.pdb
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task1/Task1/obj/Debug/netcoreapp3.0/Task1.csprojAssemblyReference.cache
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task1/Task1/obj/Debug/netcoreapp3.0/Task1.AssemblyInfoInputs.cache
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task1/Task1/obj/Debug/netcoreapp3.0/Task1.AssemblyInfo.cs
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task1/Task1/obj/Debug/netcoreapp3.0/Task1.dll
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task1/Task1/obj/Debug/netcoreapp3.0/Task1.pdb

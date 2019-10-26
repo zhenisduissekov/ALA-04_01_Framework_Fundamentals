@@ -1,0 +1,11 @@
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task6/Task6/bin/Debug/netcoreapp3.0/Task6
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task6/Task6/bin/Debug/netcoreapp3.0/Task6.deps.json
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task6/Task6/bin/Debug/netcoreapp3.0/Task6.runtimeconfig.json
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task6/Task6/bin/Debug/netcoreapp3.0/Task6.runtimeconfig.dev.json
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task6/Task6/bin/Debug/netcoreapp3.0/Task6.dll
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task6/Task6/bin/Debug/netcoreapp3.0/Task6.pdb
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task6/Task6/obj/Debug/netcoreapp3.0/Task6.csprojAssemblyReference.cache
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task6/Task6/obj/Debug/netcoreapp3.0/Task6.AssemblyInfoInputs.cache
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task6/Task6/obj/Debug/netcoreapp3.0/Task6.AssemblyInfo.cs
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task6/Task6/obj/Debug/netcoreapp3.0/Task6.dll
+/Users/zhenis/Projects/ALA-04_Framework_Fundamentals/Task6/Task6/obj/Debug/netcoreapp3.0/Task6.pdb

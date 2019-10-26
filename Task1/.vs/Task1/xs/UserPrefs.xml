@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{B7B9E1B9-FE59-4535-B28D-79E0E9F8BE17}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task1/OutputCustomerData.cs">
+    <Files>
+      <File FileName="Task1/OutputCustomerData.cs" Line="25" Column="46" />
+      <File FileName="OutputCustomerDataTests/UnitTest1.cs" Line="24" Column="89" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task1" expanded="True">
+            <Node name="OutputCustomerDataTests" expanded="True" />
+            <Node name="Task1" expanded="True">
+              <Node name="OutputCustomerData.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Task1" expanded="True">
+            <Node name="OutputCustomerDataTests" expanded="True">
+              <Node name="OutputCustomerDataTests" expanded="True">
+                <Node name="Tests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
